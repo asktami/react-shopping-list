@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-shopping-list/static/css/main.ecc54d3b.chunk.css",
+    "main.js": "/react-shopping-list/static/js/main.1f0a67a3.chunk.js",
+    "main.js.map": "/react-shopping-list/static/js/main.1f0a67a3.chunk.js.map",
+    "runtime~main.js": "/react-shopping-list/static/js/runtime~main.21d58f5c.js",
+    "runtime~main.js.map": "/react-shopping-list/static/js/runtime~main.21d58f5c.js.map",
+    "static/js/2.8425e0a6.chunk.js": "/react-shopping-list/static/js/2.8425e0a6.chunk.js",
+    "static/js/2.8425e0a6.chunk.js.map": "/react-shopping-list/static/js/2.8425e0a6.chunk.js.map",
+    "index.html": "/react-shopping-list/index.html",
+    "precache-manifest.518430cce1e797cd9a06ab8e019bf371.js": "/react-shopping-list/precache-manifest.518430cce1e797cd9a06ab8e019bf371.js",
+    "service-worker.js": "/react-shopping-list/service-worker.js",
+    "static/css/main.ecc54d3b.chunk.css.map": "/react-shopping-list/static/css/main.ecc54d3b.chunk.css.map"
+  }
+}
