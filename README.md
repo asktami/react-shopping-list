@@ -1,3 +1,8 @@
+# react-shopping list
+
+[View Live](https://asktami.github.io/react-shopping-list/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
